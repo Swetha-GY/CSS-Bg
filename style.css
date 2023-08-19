@@ -1,0 +1,7 @@
+.img{
+    background-image: url(r1.jpeg);
+    font-size: 40px;
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-color: bisque;
+}
